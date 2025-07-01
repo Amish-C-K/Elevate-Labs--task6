@@ -18,7 +18,7 @@ Understand what makes a password strong and test its strength using online passw
 | `P@$w0rd!`       | Weak         | 8.15 minutes      | Contains dictionary word, weak despite complexity.                           |
 | `T&8kZ`          | Medium       | 4 days            | Short but random with mix of characters.                                     |
 | `P&$$W0rdd`      | Strong       | 2 years           | Good length and complexity. Safe for temporary use.                          |
-|   P&$$W0r|]      | Very Strong  | 858 years         | Complex, unique, and secure. Strong against brute force attacks.             |
+|  `P&$$W0r\]`     | Very Strong  | 858 years         | Complex, unique, and secure. Strong against brute force attacks.             |
 
 ---
 
